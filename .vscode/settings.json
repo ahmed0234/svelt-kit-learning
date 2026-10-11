@@ -1,5 +1,18 @@
 {
 	"files.associations": {
 		"*.css": "tailwindcss"
+	},
+	"files.exclude": {
+		".vercel": true,
+		".svelte-kit": true,
+		".vscode": true,
+		".gitignore": true,
+		".npmrc": true,
+		".prettierignore": true,
+		"eslint.config.js": true,
+		"prettier.config.js": true,
+		"tsconfig.json": true,
+		"README.md": true,
+		"bun.lock": true
 	}
 }
