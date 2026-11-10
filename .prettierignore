@@ -7,3 +7,10 @@ bun.lockb
 
 # Miscellaneous
 /static/
+
+# Vendored agent skills (hash-pinned in skills-lock.json)
+/.agents/
+skills-lock.json
+
+# Drizzle migrations (generated)
+/drizzle/

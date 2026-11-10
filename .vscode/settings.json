@@ -3,16 +3,25 @@
 		"*.css": "tailwindcss"
 	},
 	"files.exclude": {
-		".vercel": true,
-		".svelte-kit": true,
-		".vscode": true,
-		".gitignore": true,
-		".npmrc": true,
-		".prettierignore": true,
-		"eslint.config.js": true,
-		"prettier.config.js": true,
-		"tsconfig.json": true,
-		"README.md": true,
-		"bun.lock": true
-	}
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/.jj": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    ".vercel": true,
+    ".svelte-kit": true,
+    ".vscode": true,
+    ".gitignore": true,
+    ".npmrc": true,
+    ".prettierignore": true,
+    "eslint.config.js": true,
+    "prettier.config.js": true,
+    "tsconfig.json": true,
+    "README.md": true,
+    "bun.lock": true,
+    "package-lock.json": true,
+    "components.json": true
+  },
+	"hide-files.files": []
 }
