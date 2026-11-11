@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎬 CineShelf
+# 🎬 CineMaze
 
 **Browse movies, TV shows and anime from TMDB, and save your favourites into personal collections.**
 
@@ -37,7 +37,7 @@
 
 ## 🎯 About
 
-CineShelf is a full-stack SvelteKit app for discovering films and shows. Anyone can browse
+CineMaze is a full-stack SvelteKit app for discovering films and shows. Anyone can browse
 trending titles, search, and open detailed pages for movies, TV shows and people (actors and
 crew). Signed-in users can create **collections** (for example "Watch later" or "90s sci-fi")
 and save movies and TV shows into them.
